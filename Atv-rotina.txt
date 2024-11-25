@@ -1,0 +1,46 @@
+1. Ao acordar, levanto da cama
+2. Após levantar da cama, ando até o banheiro
+3. Chegando no banheiro, ando até o lavatorio
+4. No lavatorio
+5.Pego a escova de dentes
+6. Pego a pasta de dentes
+7. Se a pasta estiver fechada
+     1.Pego a tampa
+     2.Giro a tampa 360° para abrir
+8. Coloco a pasta na escova de dentes
+Escovo os dentes
+9. Após escovar os dentes, vou lavar o rosto
+10. Coloco a mao na torneira e giro 360 para abrir
+11. Lavo o rosto
+12. Coloco a mão na torneira e giro 360 para fechar.
+13. Após lavar o rosto, saio do banheiro e vou até a cozinha.
+14. Na cozinha:
+15. Vou até o armario e
+16. Se o armário estiver fechado
+         1.Coloco a mão na haste e puxo para abrir.
+         2.Pego o caneco.
+17. Levo o caneco até a pia.
+18. Na pia
+19. Coloco a mão na torneira e giro para abrir.
+20. Encho o caneco com água.
+21. Coloco a mão na torneira e giro para fechar.
+22. Levo o caneco até o fogão.
+23. No fogão:
+24. Giro o botão e acendo o fogo.
+25. Coloco o caneco no fogo.
+26. Enquanto a água aquece
+27. Vou até o armário
+28. Se o armário estiver fechado:
+        1.Coloco a mão na haste e puxo para abrir.
+29. Pego o pó de café e o coador
+30. Coloco o pó de café no coador
+31. Coloco o coador na garrafa de café
+32. Se a água estiver fervendo:
+       1. Apago o fogo.
+33. Pego o caneco com a água fervida.
+34.Despejo a água no coador.
+35. Após coar o café
+36. Vou até o armário
+37. Pego uma xícara
+38. Coloco o café na xícara
+39 .Bebo o café
